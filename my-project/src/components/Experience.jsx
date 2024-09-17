@@ -3,7 +3,7 @@ import { EXPERIENCES } from "../constants";
 export const Experience = () => {
   return (
     <div className="border-b border-neutral-900 pb-4">
-        <h2 className="my-20 text-center text-4xl">  
+        <h2 className="my-20 text-center text-4xl text-blue-300">  
             Experience
         </h2>
         <div>
@@ -25,7 +25,7 @@ export const Experience = () => {
                             {experience.description}
                         </p>
                         {experience.tools.map((tools, index)=> (
-                            <span key={index} className="mr-2 mt-4 text-sm bg-purple-900 text-neutral-300 px-2 py-1 rounded">
+                            <span key={index} className="mr-2 mt-4 text-sm bg-neutral-900 text-pink-300 px-2 py-1 rounded">
                                 {tools}
                             </span>
                         ))}
