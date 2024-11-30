@@ -56,17 +56,11 @@ export const ACADEMIC_PROJECTS = [
       "Design, simulate, and configure a comprehensive network infrastructure for Region VI Western Visayas using Cisco Packet Tracer.",
     technologies: ["CISCO", "Packet Tracer", "Network Topology", "IP Addressing"],
   },
-  // {
-  //   title: "Blogging Platform",
-  //   image: project4,
-  //   description:
-  //     "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-  //   technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
-  // },
+
 ];
 
 export const CONTACT = {
   address: "790 F. Cruz Street, Malibay, Pasay City",
-  phoneNo: "+63 947 846 6015 ",
+  phone: "+63 947 846 6015 ",
   email: "mrksntndr@gmail.com",
 };
