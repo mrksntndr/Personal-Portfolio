@@ -66,7 +66,7 @@ export const ACADEMIC_PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "790 F. Cruz Street, Malibay, Pasay City",
+  phoneNo: "+63 947 846 6015 ",
+  email: "mrksntndr@gmail.com",
 };
